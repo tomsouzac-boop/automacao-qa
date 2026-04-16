@@ -1,0 +1,6 @@
+target/
+.idea/
+.vscode/
+*.class
+
+src/test/resources/config/database.properties
